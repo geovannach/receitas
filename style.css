@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: burlywood;
+  font-family: "Montserrat", sans-serif;
+}
+
+img {
+  width: 97vw;
+  height: 60vh;
+  margin: 10px;
+}
+
+ul {
+  margin: 20px;
+}
+
+h1 {
+  font-family: "Montagu Slab", serif;
+  color: green;
+}
+
+main {
+  padding-left: 20px;
+}/*# sourceMappingURL=style.css.map */
